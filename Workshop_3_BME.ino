@@ -57,7 +57,7 @@ void rotServo() {
 }
 void loop() {
   // Uncomment to test one at a time:
-  //posServo();
-  rotServo();  // reading -100 to 100, mapping to 0–180
+  posServo(); // Currently Testing Position Servo 
+  //rotServo();  // reading -100 to 100, mapping to 0–180
   delay(50);
 }
