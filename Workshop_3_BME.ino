@@ -61,3 +61,5 @@ void loop() {
   //rotServo();  // reading -100 to 100, mapping to 0–180
   delay(50);
 }
+
+//HI!!!!
