@@ -52,7 +52,7 @@ void rotServo() {
     Serial.print(speed);
     Serial.print("% → angle ");
     Serial.print(angle);
-    Serial.println("°");
+    // Serial.println("°");
   }
 }
 void loop() {
